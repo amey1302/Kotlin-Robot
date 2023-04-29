@@ -1,4 +1,4 @@
-Kotlin Projects: Robot and Coffee
+Kotlin Projects: 
 This repository contains a Kotlin project consisting of three Kotlin files: Main.kt, Robot.kt, and Coffee.kt.
 
 Prerequisites
